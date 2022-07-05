@@ -1,0 +1,113 @@
+
+nav a {
+color: brown;
+text-decoration: none;
+padding: 10px;
+}
+
+
+nav a:hover{
+    color: #778899;
+    font-size: 20px;
+}
+ h2 {
+    padding-left: 833px;
+    color: crimson; 
+    background-color: rgb(219, 219, 219); 
+    MARGIN-BLOCK-START: 57px
+
+}
+nav{
+    margin-block-end: 54px;
+    margin-block-start: 42px;
+        margin-left: 70%;
+    
+}
+.aminec{
+    display: block;
+    margin-block-start: 50%;
+
+}
+
+footer{
+    text-align: center;
+}
+#b{
+    margin-block-start: -275px;
+    margin-inline-start: 358px;
+
+    display: block;
+}
+#c{
+    display: block;
+    margin-block-start: -230px;
+    margin-inline-start: 699px;
+}
+#d{
+    display: block;
+    margin-inline-start: 354px;
+    margin-block-start: -234px;
+    margin-inline-start: 1333px;
+
+}
+#a{
+    margin-inline-start: 23px;
+
+    display: block;
+}
+ol{
+    text-align: center;
+    /* text-decoration: dashed; */
+    text-decoration: underline;
+    padding-block-end: 24px;
+    padding-inline: 872px;
+}
+li{
+    text-align: center;
+    text-decoration: none;
+
+}
+
+video{
+    width: auto;
+    text-align: center;
+    padding-inline-start: 283px;
+}
+#CONTACT table{
+    text-align: center;
+}
+h3{
+   
+    background-color:rgb(219, 219, 219) ;
+}
+
+
+p {
+    padding-inline-end: 481px;
+    padding-inline-start: 407px;
+    margin-left: 483px;
+    padding-right: 453px;
+    padding-left: 428px;
+    line-height: 43px;
+    width: 40%;
+    font-size: 17px;
+    border: 10px solid black;
+    padding: 16px;
+}
+#cv1{
+
+    padding-inline: 703px;
+}
+
+table{
+    border-collapse: collapse;
+  }
+  
+  th, td{
+    border: 1px solid black;
+    padding: 10px;
+  }
+.tableau{
+
+    text-align: center;
+}
